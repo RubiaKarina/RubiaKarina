@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @RubiaKarina
+- 🌱 I’m currently learning HTML, CSS, JavaScript 
