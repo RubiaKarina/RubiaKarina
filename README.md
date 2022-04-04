@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @RubiaKarina
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and C#
+- 🌱 I’m currently learning C# .NET
