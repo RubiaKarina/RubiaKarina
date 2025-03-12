@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RubiaKarina
-- 🌱 I’m currently learning Python, Javascript - HTML - CSS.
+- 🌱 I’m currently learning Python, SQL and C# .NET
 
